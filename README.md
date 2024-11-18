@@ -1,5 +1,4 @@
 # YouTube to MP3 Downloader - Complete Setup Guide
-
 ## Download & Setup (Follow in Order)
 
 1. INSTALL PYTHON
